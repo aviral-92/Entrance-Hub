@@ -796,15 +796,15 @@ e.printStackTrace();
               <h3 class="widget-title">updated admissions forms </h3>
               <div class="recent_comments">
                 <div class="post_comm"> <a href="#"></a>
-                  <p><a href="#"><strong>PTU entrance form</strong>:</a> Stranguillio cum unde non coepit cenam veniebant est in fuerat est Apollonius mihi esse more defuncta ait...</p>
+                  <p><a href="http://www.ptu.ac.in/"><strong>PTU entrance form</strong>:</a> Stranguillio cum unde non coepit cenam veniebant est in fuerat est Apollonius mihi esse more defuncta ait...</p>
                 </div>
                 <div class="clear"></div>
                 <div class="post_comm"> <a href="#"></a>
-                  <p><a href="#"><strong>MDU entrance form</strong>:</a> In lucem exempli paupers coniunx in fuerat. Toro frumento manu duas recitare...</p>
+                  <p><a href="http://www.mdurohtak.ac.in/"><strong>MDU entrance form</strong>:</a> In lucem exempli paupers coniunx in fuerat. Toro frumento manu duas recitare...</p>
                 </div>
                 <div class="clear"></div>
                 <div class="post_comm"> <a href="#"></a>
-                  <p><a href="#"><strong>Delhi university</strong>:</a> Tharsia adulescens longum deposita ad te in. Neptunalia festinare decenter ortam adipiscing enixa...</p>
+                  <p><a href="http://www.du.ac.in/du/index.php?page=ug-admission"><strong>Delhi university</strong>:</a> Tharsia adulescens longum deposita ad te in. Neptunalia festinare decenter ortam adipiscing enixa...</p>
                 </div>
                 <div class="clear"></div>
               </div>
@@ -816,15 +816,15 @@ e.printStackTrace();
             <aside class="widget widget_latest_posts">
               <h3 class="widget-title">Latest news</h3>
               <ul>
-                <li> <a href="#"><img src="images/images (2).jpg" alt="" width="90" height="95" /></a> <a href="#">AIEEE result will be out on 12 April 2014. .</a> <br />
+                 <li> <a href="#"><img src="images/images (2).jpg" alt="" width="90" height="95" /></a> <a href="http://jeemain.nic.in/webinfo/Public/Home.aspx">AIEEE result will be out on 12 April 2017. .</a> <br />
                  
                   <div class="clear"></div>
                 </li>
-                <li> <a href="#"><img src="images/qw.png" alt="" width="90" height="95" /></a> <a href="#">Delhi univesity forms are out and they providing scholorship of above 90% in PCM </a> <br />
+                <li> <a href="#"><img src="images/qw.png" alt="" width="90" height="95" /></a> <a href="http://www.du.ac.in/du/index.php?page=opportunities-scholarships">Delhi univesity forms are out and they providing scholorship of above 90% in PCM </a> <br />
                 
                   <div class="clear"></div>
                 </li>
-                <li><a href="#"><img src="images/iit-jee.png" width="90" height="95" longdesc="../../../Desktop/New folder/iit.png"></a><a href="#">IIT counselling starts from 24 april 2014.</a> <br />
+                <li><a href="#"><img src="images/iit-jee.png" width="90" height="95" longdesc="../../../Desktop/New folder/iit.png"></a><a href="http://jeemain.nic.in/webinfo/Public/Home.aspx">IIT counselling starts from 24 april 2017.</a> <br />
                   
                   <div class="clear"></div>
                 </li>

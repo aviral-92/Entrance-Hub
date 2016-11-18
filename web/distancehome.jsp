@@ -91,11 +91,11 @@
                   
                 <li><a href="#">distance university</a>
 				<ul>
-                    <li><a href="blog-meta-before.html">North Zone</a></li>
-                    <li><a href="blog-meta-after.html">South Zone</a></li>
-                    <li><a href="blog-meta-iconsright.html">East Zone</a></li>
-                    <li><a href="blog-meta-iconsleft.html">West Zone</a></li>
-					<li><a href="blog-meta-iconsleft.html">Central Zone</a></li>
+                    <li><a href="/EntranceHub/WebContent/North_M_Zone.jsp">North Zone</a></li>
+                    <li><a href="/EntranceHub/WebContent/South_M_Zone.jsp">South Zone</a></li>
+                    <li><a href="/EntranceHub/WebContent/East_M_Zone.jsp">East Zone</a></li>
+                    <li><a href="/EntranceHub/WebContent/West_M_Zone.jsp">West Zone</a></li>
+					<li><a href="/EntranceHub/WebContent/North_M_Zone.jsp">Central Zone</a></li>
                     
                   </ul>
                  
@@ -223,15 +223,15 @@
               <ul>
                 
                 <li class="current-menu-item"><a href="#">Indira Gandhi National Open University</a></li>
-                <li><a href="#">Annamalai University</a></li>
-                <li><a href="#">Osmania University</a></li>
-                <li><a href="#">Sikkim Manipal University</a></li>
-                <li><a href="#">Panjab Technical University</a></li>
-                <li><a href="#">Symbiosis Center for Distance Learning</a></li>
-                <li><a href="#">University of Madras</a></li>
-                <li><a href="#">Mahatma Gandhi University</a></li>
-				<li><a href="#">Karnataka State Open University</a></li>
-                <li><a href="#">Nalanda Open University</a></li>
+                <li><a href="https://www.annamalaiuniversity.ac.in/">Annamalai University</a></li>
+                <li><a href="http://www.osmania.ac.in/">Osmania University</a></li>
+                <li><a href="http://smu.edu.in/smu.html">Sikkim Manipal University</a></li>
+                <li><a href="http://www.ptu.ac.in/">Panjab Technical University</a></li>
+                <li><a href="http://www.scdl.net/">Symbiosis Center for Distance Learning</a></li>
+                <li><a href="http://www.unom.ac.in/">University of Madras</a></li>
+                <li><a href="http://www.mguniversity.in/">Mahatma Gandhi University</a></li>
+				<li><a href="http://karnatakastateopenuniversity.in/">Karnataka State Open University</a></li>
+                <li><a href="http://www.nalandaopenuniversity.com/">Nalanda Open University</a></li>
               </ul>
             </aside>
             <div class="clear"></div>
@@ -242,15 +242,15 @@
               <h3 class="widget-title">updated admissions forms </h3>
               <div class="recent_comments">
                 <div class="post_comm"> <a href="#"></a> 
-                  <p><a href="#"><strong>PTU entrance form</strong>:</a> Stranguillio cum unde non coepit cenam veniebant est in fuerat est Apollonius mihi esse more defuncta ait...</p>
+                  <p><a href="http://www.ptu.ac.in/"><strong>PTU entrance form</strong>:</a> Stranguillio cum unde non coepit cenam veniebant est in fuerat est Apollonius mihi esse more defuncta ait...</p>
                 </div>
                 <div class="clear"></div>
                 <div class="post_comm"> <a href="#"></a>
-                  <p><a href="#"><strong>MDU entrance form</strong>:</a> In lucem exempli paupers coniunx in fuerat. Toro frumento manu duas recitare...</p>
+                  <p><a href="http://www.mdurohtak.ac.in/"><strong>MDU entrance form</strong>:</a> In lucem exempli paupers coniunx in fuerat. Toro frumento manu duas recitare...</p>
                 </div>
                 <div class="clear"></div>
                 <div class="post_comm"> <a href="#"></a>
-                  <p><a href="#"><strong>Delhi university</strong>:</a> Tharsia adulescens longum deposita ad te in. Neptunalia festinare decenter ortam adipiscing enixa...</p>
+                  <p><a href="http://www.du.ac.in/du/index.php?page=ug-admission"><strong>Delhi university</strong>:</a> Tharsia adulescens longum deposita ad te in. Neptunalia festinare decenter ortam adipiscing enixa...</p>
                 </div>
                 <div class="clear"></div>
               </div>
@@ -263,15 +263,15 @@
               <h3 class="widget-title">Latest news</h3>
               <marquee direction="up" >
 			  <ul>
-                <li> <a href="#"><img src="images/images (2).jpg" alt="" width="90" height="95" /></a> <a href="#">AIEEE result will be out on 12 April 2014. .</a> <br />
+                <li> <a href="#"><img src="images/images (2).jpg" alt="" width="90" height="95" /></a> <a href="http://jeemain.nic.in/webinfo/Public/Home.aspx">AIEEE result will be out on 12 April 2017. .</a> <br />
                  
                   <div class="clear"></div>
                 </li>
-                <li> <a href="#"><img src="images/qw.png" alt="" width="90" height="95" /></a> <a href="#">Delhi univesity forms are out and they providing scholorship of above 90% in PCM </a> <br />
+                <li> <a href="#"><img src="images/qw.png" alt="" width="90" height="95" /></a> <a href="http://www.du.ac.in/du/index.php?page=opportunities-scholarships">Delhi univesity forms are out and they providing scholorship of above 90% in PCM </a> <br />
                 
                   <div class="clear"></div>
                 </li>
-                <li><a href="#"><img src="images/iit-jee.png" width="90" height="95" longdesc="../../../Desktop/New folder/iit.png"></a><a href="#">IIT counselling starts from 24 april 2014.</a> <br />
+                <li><a href="#"><img src="images/iit-jee.png" width="90" height="95" longdesc="../../../Desktop/New folder/iit.png"></a><a href="http://jeemain.nic.in/webinfo/Public/Home.aspx">IIT counselling starts from 24 april 2017.</a> <br />
                   </marquee>
                   <div class="clear"></div>
                 </li>

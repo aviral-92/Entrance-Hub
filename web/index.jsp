@@ -126,7 +126,7 @@ body {
 			
                         <div class="oneByOne_item">
 						<span class="ob1_title">ENGINEERING</span><span class="ob1_description">Engineering is the application of scientific, economic, social, and practical knowledge in order to design, build, maintain, and improve structures, machines, devices, systems, materials and processes.
-						</span><span class="ob1_button"><a href="engineering.jsp" class="default_button">SEARCH</a></span>
+						</span><span class="ob1_button"><a href="Engineering.jsp" class="default_button">SEARCH</a></span>
 						<img src="images/e1.jpg" class="ob1_img_device1" alt=""/>			</div>
 						
 					<div class="oneByOne_item">
@@ -210,7 +210,7 @@ body {
 
   </section> 
  </section>
-<section id="site_footer_second"> <section class="container_12 site_footer_inner"> <div class="grid_6 site_copyright"> <a class="go_to_top scroll_top_infooter" href="#" onClick="return false">top</a> <a href="teammember.jsp" target="_blank">DEVELOPER TEAM </a></div> 
+<section id="site_footer_second"> <section class="container_12 site_footer_inner"> <div class="grid_6 site_copyright"> <a class="go_to_top scroll_top_infooter" href="#" onClick="return false">top</a></div> 
     <div class="grid_6 footer2_right footer_social"> <a href="#" class="facebook"></a> <a href="#" class="twitter"></a> <a href="#" class="youtube"></a> </div> <div class="clear"></div> </section>
 </section> 
 <div class="clear"></div> </section> </section> <script type="text/javascript" src="js/iview.js"></script> <script type="text/javascript" src="js/raphael-min.js"></script> <script type="text/javascript" src="js/jquery.plugins-min.js"></script> <script type="text/javascript" src="http://maps.google.com/maps/api/js@sensor=false"></script> <script type="text/javascript" src="js/gmap3.min.js"></script> <script type="text/javascript" src="js/gmap.init.js"></script> <script type="text/javascript" src="js/smk-framework-min.js"></script> <script type="text/javascript" src="js/scripts-bottom-min.js"></script> </body> </html>

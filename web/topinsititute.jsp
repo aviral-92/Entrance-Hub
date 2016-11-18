@@ -140,42 +140,42 @@ body {
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="style12">5.4</span></td>
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="style12">Pune</span></td>
                      <td>&nbsp;&nbsp;&nbsp;&nbsp;<span class="style12">Maharashtra</span></td>
-                     <td><span class="style11">CLICKME</span></td>
+                     <td><span class="stylel2">CLICK ME</span></td>
                   </tr>
                   <tr>
                     <td><span class="style11">IMT Distance and Open Learning Institute</span></td>
                     <td><span class="style11">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.3</span></td>
                     <td><span class="stylel2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ghaziabad</span></td>
                      <td>&nbsp;&nbsp; &nbsp;<span class="stylel2">Uttar Pradesh</span></td>
-                     <td><span class="stylel2">CLICK ME</span></td>
+                      <td><span class="stylel2">CLICK ME</span></td>
                   </tr>
                   <tr>
                     <td><span class="stylel2">Welingkar Institute of Management Development and Research</span></td>
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">4.4</span></td>
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">Mumbai</span></td>
                      <td>&nbsp;&nbsp;&nbsp;&nbsp; <span class="stylel2">Maharashtra</span></td>
-                     <td><span class="stylel2">CLICK ME</span></td>
+               <td><span class="stylel2">CLICK ME</span></td>
                   </tr>
                   <tr>
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">AIMA</span></td>
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">4.1</span></td>
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">New Delhi</span></td>
                      <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">Delhi</span></td>
-                    <td><span class="stylel2">CLICK ME</span></td>
+                <td><span class="stylel2">CLICK ME</span></td>
                   </tr>
                   <tr>
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">Sinhgad Technical  Education Society</span></td>
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">4.2</span></td>
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">Pune</span></td>
                      <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">Maharashtra</span></td>
-                     <td><span class="stylel2">CLICK ME</span></td>
+                   <td><span class="stylel2">CLICK ME</span></td>
                   </tr>
                   <tr>
                     <td>&nbsp;&nbsp;<span class="stylel2">IILM Institute of Higher  Education</span></td>
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">4.9</span></td>
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">Gurgaon</span></td>
                      <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">Haryana</span></td>
-                     <td><span class="stylel2">CLICK ME</span></td>
+                  <td><span class="stylel2">CLICK ME</span></td>
                   </tr>
                   <tr>
                     <td>&nbsp;&nbsp;<span class="stylel2">Institute of Rail Transport</span></td>
@@ -189,7 +189,7 @@ body {
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">4.5</span></td>
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">Bhadohi</span></td>
                      <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">Uttar Pradesh</span></td>
-                     <td><span class="stylel2">CLICK ME</span></td>
+                   <td><span class="stylel2">CLICK ME</span></td>
                   </tr>
                   <tr>
                     <td>&nbsp;&nbsp;<span class="stylel2">Indira International Distance Education Academy, Indira Group of Institutes</span></td>
@@ -210,14 +210,14 @@ body {
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">3.6</span></td>
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">Gurgaon</span></td>
                      <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">Haryana</span></td>
-                     <td><span class="stylel2">CLICK ME</span></td>
+                    <td><span class="stylel2">CLICK ME</span></td>
                   </tr>
                   <tr>
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">PSB Educational Foundation</span></td>
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">3.6</span></td>
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">Pune</span></td>
                      <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">Maharashtra</span></td>
-                     <td><span class="stylel2">CLICK ME</span></td>
+                   <td><span class="stylel2">CLICK ME</span></td>
                   </tr>
                   <tr>
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="stylel2">NIMT Institute of Technology and Management</span></td>
@@ -272,15 +272,15 @@ body {
               <h3 class="widget-title">updated admissions forms </h3>
               <div class="recent_comments">
                 <div class="post_comm"> <a href="#"></a>
-                  <p><a href="#"><strong>PTU entrance form</strong>:</a> Stranguillio cum unde non coepit cenam veniebant est in fuerat est Apollonius mihi esse more defuncta ait...</p>
+                  <p><a href="http://www.ptu.ac.in/"><strong>PTU entrance form</strong>:</a> Stranguillio cum unde non coepit cenam veniebant est in fuerat est Apollonius mihi esse more defuncta ait...</p>
                 </div>
                 <div class="clear"></div>
                 <div class="post_comm"> <a href="#"></a>
-                  <p><a href="#"><strong>MDU entrance form</strong>:</a> In lucem exempli paupers coniunx in fuerat. Toro frumento manu duas recitare...</p>
+                  <p><a href="http://www.mdurohtak.ac.in/"><strong>MDU entrance form</strong>:</a> In lucem exempli paupers coniunx in fuerat. Toro frumento manu duas recitare...</p>
                 </div>
                 <div class="clear"></div>
                 <div class="post_comm"> <a href="#"></a>
-                  <p><a href="#"><strong>Delhi university</strong>:</a> Tharsia adulescens longum deposita ad te in. Neptunalia festinare decenter ortam adipiscing enixa...</p>
+                  <p><a href="http://www.du.ac.in/du/index.php?page=ug-admission"><strong>Delhi university</strong>:</a> Tharsia adulescens longum deposita ad te in. Neptunalia festinare decenter ortam adipiscing enixa...</p>
                 </div>
                 <div class="clear"></div>
               </div>
@@ -292,15 +292,15 @@ body {
             <aside class="widget widget_latest_posts">
               <h3 class="widget-title">Latest news</h3>
               <ul>
-                <li> <a href="#"><img src="images/images (2).jpg" alt="" width="90" height="95" /></a> <a href="#">AIEEE result will be out on 12 April 2014. .</a> <br />
+                <li> <a href="#"><img src="images/images (2).jpg" alt="" width="90" height="95" /></a> <a href="http://jeemain.nic.in/webinfo/Public/Home.aspx">AIEEE result will be out on 12 April 2017. .</a> <br />
                  
                   <div class="clear"></div>
                 </li>
-                <li> <a href="#"><img src="images/qw.png" alt="" width="90" height="95" /></a> <a href="#">Delhi univesity forms are out and they providing scholorship of above 90% in PCM </a> <br />
+                <li> <a href="#"><img src="images/qw.png" alt="" width="90" height="95" /></a> <a href="http://www.du.ac.in/du/index.php?page=opportunities-scholarships">Delhi univesity forms are out and they providing scholorship of above 90% in PCM </a> <br />
                 
                   <div class="clear"></div>
                 </li>
-                <li><a href="#"><img src="images/iit-jee.png" width="90" height="95" longdesc="../../../Desktop/New folder/iit.png"></a><a href="#">IIT counselling starts from 24 april 2014.</a> <br />
+                <li><a href="#"><img src="images/iit-jee.png" width="90" height="95" longdesc="../../../Desktop/New folder/iit.png"></a><a href="http://jeemain.nic.in/webinfo/Public/Home.aspx">IIT counselling starts from 24 april 2017.</a> <br />
                   
                   <div class="clear"></div>
                 </li>

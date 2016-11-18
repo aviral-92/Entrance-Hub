@@ -1,7 +1,7 @@
 <%-- 
     Document   : Engineering
     Created on : Apr 8, 2014, 3:32:35 PM
-    Author     : Aviral
+    Author     : Mahima
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -284,7 +284,7 @@ They  work on the interfaces between different pieces of hardware and strive to 
                 </div>
                 <div class="clear"></div>
                 <div class="post_comm"> <a href="#"></a>
-                  <p><a href="http://www.du.ac.in/fileadmin/DU/about_du/newdu/index.html"><strong>Delhi university</strong>:</a> It comes under top 10 universities of India and also known as DU... </p>
+                  <p><a href="http://www.du.ac.in/du/index.php?page=ug-admission"><strong>Delhi university</strong>:</a> It comes under top 10 universities of India and also known as DU... </p>
                 </div>
                 <div class="clear"></div>
               </div>
@@ -296,7 +296,7 @@ They  work on the interfaces between different pieces of hardware and strive to 
             <aside class="widget widget_latest_posts">
               <h3 class="widget-title">Latest news</h3>
               <ul>
-                <li> <a href="#"><img src="images/images (2).jpg" alt="" width="90" height="95" /></a> <a href="http://delhi.indiaresults.com/cbse/">AIEEE result will be out on 12 April 2014. .</a> <br />
+                <li> <a href="#"><img src="images/images (2).jpg" alt="" width="90" height="95" /></a> <a href="http://delhi.indiaresults.com/cbse/">AIEEE result will be out on 12 April 2017. .</a> <br />
                  
                   <div class="clear"></div>
                 </li>
@@ -304,7 +304,7 @@ They  work on the interfaces between different pieces of hardware and strive to 
                 
                   <div class="clear"></div>
                 </li>
-                <li><a href="#"><img src="images/iit-jee.png" width="90" height="95" longdesc="../../../Desktop/New folder/iit.png"></a><a href="http://jeemain.nic.in/">IIT counselling starts from 24 april 2014.</a> <br />
+                <li><a href="#"><img src="images/iit-jee.png" width="90" height="95" longdesc="../../../Desktop/New folder/iit.png"></a><a href="http://jeemain.nic.in/">IIT counselling starts from 24 april 2017.</a> <br />
                   
                   <div class="clear"></div>
                 </li>

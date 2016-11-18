@@ -1,4 +1,4 @@
-<%-- 
++<%-- 
     Document   : managementhome
     Created on : Apr 1, 2014, 10:29:34 AM
     Author     : Priya
@@ -222,16 +222,16 @@
               <h3 class="widget-title">Top 10 Colleges/University in India</h3>
               <ul>
                 
-                <li class="current-menu-item"><a href="IIM_Ahmedabad.jsp">IIM-Ahmedabad</a></li>
-                <li><a href="IIM_Bangalore.jsp">IIM-Bangalore</a></li>
-                <li><a href="IIM_Calcutta.jsp">IIM-Calcutta</a></li>
-                <li><a href="IIM_Lucknow.jsp">IIM-Lucknow</a></li>
-                <li><a href="IIM_Indore.jsp">IIM-Indore</a></li>
-                <li><a href="IIFT_Delhi.jsp">Indian Institute of Foreign Trade-Delhi</a></li>
-                <li><a href="FMS_Delhi.jsp">Faculty of Management Studies-Delhi</a></li>
-                <li><a href="DBA_Aligarh.jsp">Department of Business Administration-Aligarh</a></li>
-		<li><a href="LBS_Delhi.jsp">L.B. Shastri Institute of Management-Delhi</a></li>
-                <li><a href="Xavier.jsp">Xavier Institute of Management-Jamshedpur</a></li>
+                <li class="current-menu-item"><a href="http://www.iimahd.ernet.in/">IIM-Ahmedabad</a></li>
+                <li><a href="http://www.iimb.ernet.in/">IIM-Bangalore</a></li>
+                <li><a href="https://www.iimcal.ac.in/">IIM-Calcutta</a></li>
+                <li><a href="http://www.iiml.ac.in/">IIM-Lucknow</a></li>
+                <li><a href="http://www.iimidr.ac.in/">IIM-Indore</a></li>
+                <li><a href="http://tedu.iift.ac.in/iift/index.php">Indian Institute of Foreign Trade-Delhi</a></li>
+                <li><a href="http://www.fms.edu/">Faculty of Management Studies-Delhi</a></li>
+                <li><a href="http://www.amu.ac.in/departmentpage.jsp?did=44">Department of Business Administration-Aligarh</a></li>
+		<li><a href="http://www.lbsim.ac.in/">L.B. Shastri Institute of Management-Delhi</a></li>
+                <li><a href="http://www.xlri.ac.in/">Xavier Institute of Management-Jamshedpur</a></li>
               </ul>
             </aside>
             <div class="clear"></div>
@@ -251,7 +251,7 @@
                 </div>
                 <div class="clear"></div>
                 <div class="post_comm"> <a href="#"></a>
-                  <p><a href="http://www.du.ac.in/fileadmin/DU/about_du/newdu/index.html"><strong>Delhi university</strong>:</a> It comes under top 10 universities of India and also known as DU </p>
+                  <p><a href="http://www.du.ac.in/du/index.php?page=ug-admission"><strong>Delhi university</strong>:</a> It comes under top 10 universities of India and also known as DU </p>
                 </div>
                 <div class="clear"></div>
               </div>
@@ -264,15 +264,15 @@
               <h3 class="widget-title">Latest news</h3>
               <marquee direction="up" >
 			  <ul>
-                <li> <a href="#"><img src="images/images (2).jpg" alt="" width="90" height="95" /></a> <a href="#">AIEEE result will be out on 12 April 2014. .</a> <br />
+                <li> <a href="#"><img src="images/images (2).jpg" alt="" width="90" height="95" /></a> <a href="http://jeemain.nic.in/webinfo/Public/Home.aspx">AIEEE result will be out on 12 April 2017. .</a> <br />
                  
                   <div class="clear"></div>
                 </li>
-                <li> <a href="#"><img src="images/qw.png" alt="" width="90" height="95" /></a> <a href="#">Delhi univesity forms are out and they providing scholorship of above 90% in PCM </a> <br />
+                <li> <a href="#"><img src="images/qw.png" alt="" width="90" height="95" /></a> <a href="http://www.du.ac.in/du/index.php?page=opportunities-scholarships">Delhi univesity forms are out and they providing scholorship of above 90% in PCM </a> <br />
                 
                   <div class="clear"></div>
                 </li>
-                <li><a href="#"><img src="images/iit-jee.png" width="90" height="95" longdesc="../../../Desktop/New folder/iit.png"></a><a href="#">IIT counselling starts from 24 april 2014.</a> <br />
+                <li><a href="#"><img src="images/iit-jee.png" width="90" height="95" longdesc="../../../Desktop/New folder/iit.png"></a><a href="http://jeemain.nic.in/webinfo/Public/Home.aspx">IIT counselling starts from 24 april 2017.</a> <br />
                   </marquee>
                   <div class="clear"></div>
                 </li>

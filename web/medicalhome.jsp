@@ -239,14 +239,14 @@
                 
                 <li class="current-menu-item"><li>
                 <a href="http://www.aiims.edu/">All India Institute of Medical Sciences(AIIMS)</a></li>
-                <li><a href="#">Christian Medical College, Vellore (CMC, Vellore)</a></li>
-                <li><a href="#‎">Armed Forces Medical College(AFMC), Pune</a></li>
-                <li><a href="#">JIPMER,Dhanvantri Nagar, Puducherry</a></li>
-                <li><a href="#">Maulana Azad Medical College(MAMC), Delhi</a></li>
-                <li><a href="#">Lady Hardinge Medical College(LHMC), Delhi</a></li>
-                <li><a href="#">Madras Medical College (Chennai Medical College)</a></li>
-		<li><a href="#">Grant Medical College,Mumbai</a></li>
-                <li><a href="#">Kasturba Medical College(KMC),Manipal</a></li>
+                <li><a href="http://www.cmch-vellore.edu/">Christian Medical College, Vellore (CMC, Vellore)</a></li>
+                <li><a href="http://www.afmc.nic.in/‎">Armed Forces Medical College(AFMC), Pune</a></li>
+                <li><a href="http://jipmer.edu.in/">JIPMER,Dhanvantri Nagar, Puducherry</a></li>
+                <li><a href="http://www.mamc.ac.in/">Maulana Azad Medical College(MAMC), Delhi</a></li>
+                <li><a href="http://www.hardinge.org/">Lady Hardinge Medical College(LHMC), Delhi</a></li>
+                <li><a href="http://www.mmc.tn.gov.in/">Madras Medical College (Chennai Medical College)</a></li>
+				<li><a href="http://www.gmcjjh.org/">Grant Medical College,Mumbai</a></li>
+                <li><a href="http://manipal.edu/kmc-manipal.html">Kasturba Medical College(KMC),Manipal</a></li>
                 
               </ul>
             </aside>
@@ -258,15 +258,15 @@
               <h3 class="widget-title">UPDATED ADMISSIONS FORM </h3>
               <div class="recent_comments">
                 <div class="post_comm"> <a href="#"></a> 
-                  <p><a href="#"><strong>PTU entrance form</strong>:</a> Punjab Technical University is one of the best university of north in Punjab</p>
+                  <p><a href="http://www.ptu.ac.in/"><strong>PTU entrance form</strong>:</a> Punjab Technical University is one of the best university of north in Punjab</p>
                 </div>
                 <div class="clear"></div>
                 <div class="post_comm"> <a href="#"></a>
-                  <p><a href="#"><strong>MDU entrance form</strong>:</a> Maharishi Dayanand University is one of the oldest university of north in Harayana</p>
+                  <p><a href="http://www.mdurohtak.ac.in/"><strong>MDU entrance form</strong>:</a> Maharishi Dayanand University is one of the oldest university of north in Harayana</p>
                 </div>
                 <div class="clear"></div>
                 <div class="post_comm"> <a href="#"></a>
-                  <p><a href="#"><strong>Delhi university</strong>:</a>It comes under top 10 universities of India and also known as DU...</p>
+                  <p><a href="http://www.du.ac.in/du/index.php?page=ug-admission"><strong>Delhi university</strong>:</a>It comes under top 10 universities of India and also known as DU...</p>
                 </div>
                 <div class="clear"></div>
               </div>
@@ -279,15 +279,15 @@
               <h3 class="widget-title">Latest news</h3>
               
 			  <ul>
-                <li> <a href="#"><img src="images/images (2).jpg" alt="" width="90" height="95" /></a> <a href="#">AIEEE result will be out on 12 April 2014. .</a> <br />
+                <li> <a href="#"><img src="images/images (2).jpg" alt="" width="90" height="95" /></a> <a href="http://jeemain.nic.in/webinfo/Public/Home.aspx">AIEEE result will be out on 12 April 2017. .</a> <br />
                  
                   <div class="clear"></div>
                 </li>
-                <li> <a href="#"><img src="images/qw.png" alt="" width="90" height="95" /></a> <a href="#">Delhi univesity forms are out and they providing scholorship of above 90% in PCM </a> <br />
+                <li> <a href="#"><img src="images/qw.png" alt="" width="90" height="95" /></a> <a href="http://www.du.ac.in/du/index.php?page=opportunities-scholarships">Delhi univesity forms are out and they providing scholorship of above 90% in PCM </a> <br />
                 
                   <div class="clear"></div>
                 </li>
-                <li><a href="#"><img src="images/iit-jee.png" width="90" height="95" longdesc="../../../Desktop/New folder/iit.png"></a><a href="#">IIT counselling starts from 24 april 2014.</a> <br />
+                <li><a href="#"><img src="images/iit-jee.png" width="90" height="95" longdesc="../../../Desktop/New folder/iit.png"></a><a href="http://jeemain.nic.in/webinfo/Public/Home.aspx">IIT counselling starts from 24 april 2017.</a> <br />
                   </marquee>
                   <div class="clear"></div>
                 </li>

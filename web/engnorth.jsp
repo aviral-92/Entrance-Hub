@@ -85,7 +85,7 @@ body {
                  
                 <li><a href="#">ENGINEERING COLLEGE</a>
                   <ul>
-                    <li><a href="#">North</a>
+                    <li><a href="engnorth.jsp">North</a>
                     </li>
                 <li><a href="engsouth.jsp">South</a></li>
                     <li><a href="engeast.jsp">East</a></li>
@@ -771,16 +771,16 @@ e.printStackTrace();
               <h3 class="widget-title">TOP 10 ENGINEERING COLLEGE IN INDIA </h3>
               <ul>
                 
-                <li><a href="#">IIT Delhi </a></li>
-                <li><a href="#">IIT Mumbai </a></li>
-                <li><a href="#">IIT Chennai </a></li>
-                <li><a href="#">IIT Kanpur </a></li>
-                <li><a>IIT Guwahati</a></li>
-                <li><a href="#">IIT Kharagpur</a></li>
-                <li><a href="#">IIT Roorkee</a></li>
-                <li><a href="#">Vellore Institute of Technology</a></li>
-                <li><a href="#">Delhi Technological University</a></li>
-                <li><a>Birla Institute of Technology and Sciences</a></li>
+                <li><a href="http://www.iitd.ac.in/">IIT Delhi </a></li>
+                <li><a href="http://www.iitb.ac.in/">IIT Mumbai </a></li>
+                <li><a href="https://www.iitm.ac.in/">IIT Chennai </a></li>
+                <li><a href="http://iitk.ac.in/">IIT Kanpur </a></li>
+                <li><a href="http://www.iitg.ac.in/">IIT Guwahati</a></li>
+                <li><a href="http://iitkgp.ac.in/">IIT Kharagpur</a></li>
+                <li><a href="http://www.iitr.ac.in/">IIT Roorkee</a></li>
+                <li><a href="http://www.vit.ac.in/">Vellore Institute of Technology</a></li>
+                <li><a href="http://dtu.ac.in/">Delhi Technological University</a></li>
+                <li><a href ="http://www.bits-pilani.ac.in/">Birla Institute of Technology and Sciences</a></li>
 
                 
               </ul>
@@ -800,7 +800,7 @@ e.printStackTrace();
                 </div>
                 <div class="clear"></div>
                 <div class="post_comm"> <a href="#"></a>
-                  <p><a href="http://www.du.ac.in/fileadmin/DU/about_du/newdu/index.html"><strong>Delhi university</strong>:</a> It comes under top 10 universities of India and also known as DU... </p>
+                  <p><a href="http://www.du.ac.in/du/index.php?page=ug-admission"><strong>Delhi university</strong>:</a> It comes under top 10 universities of India and also known as DU... </p>
                 </div>
                 <div class="clear"></div>
               </div>
@@ -812,7 +812,7 @@ e.printStackTrace();
             <aside class="widget widget_latest_posts">
               <h3 class="widget-title">Latest news</h3>
               <ul>
-                <li> <a href="#"><img src="images/images (2).jpg" alt="" width="90" height="95" /></a> <a href="http://delhi.indiaresults.com/cbse/">AIEEE result will be out on 12 April 2014. .</a> <br />
+                <li> <a href="#"><img src="images/images (2).jpg" alt="" width="90" height="95" /></a> <a href="http://delhi.indiaresults.com/cbse/">AIEEE result will be out on 12 April 2017. .</a> <br />
                  
                   <div class="clear"></div>
                 </li>
@@ -820,7 +820,7 @@ e.printStackTrace();
                 
                   <div class="clear"></div>
                 </li>
-                <li><a href="#"><img src="images/iit-jee.png" width="90" height="95" longdesc="../../../Desktop/New folder/iit.png"></a><a href="http://jeemain.nic.in/">IIT counselling starts from 24 april 2014.</a> <br />
+                <li><a href="#"><img src="images/iit-jee.png" width="90" height="95" longdesc="../../../Desktop/New folder/iit.png"></a><a href="http://jeemain.nic.in/">IIT counselling starts from 24 april 2017.</a> <br />
                   
                   <div class="clear"></div>
                 </li>

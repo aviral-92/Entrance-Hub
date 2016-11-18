@@ -785,15 +785,15 @@ e.printStackTrace();
               <ul>
                 
                   <li class="current-menu-item"><li>
-               <a href="http://www.aiims.edu/">All India Institute of Medical Sciences(AIIMS)</a></li>
-                <li><a href="#">Christian Medical College, Vellore (CMC, Vellore)</a></li>
-                <li><a href="#">Armed Forces Medical College(AFMC), Pune</a></li>
-                <li><a href="#">JIPMER,Dhanvantri Nagar, Puducherry</a></li>
-                <li><a href="#">Maulana Azad Medical College(MAMC), Delhi</a></li>
-                <li><a href="#">Lady Hardinge Medical College(LHMC), Delhi</a></li>
-                <li><a href="#">Madras Medical College (Chennai Medical College)</a></li>
-		<li><a href="#">Grant Medical College,Mumbai</a></li>
-                <li><a href="#">Kasturba Medical College(KMC),Manipal</a></li>
+              <a href="http://www.aiims.edu/">All India Institute of Medical Sciences(AIIMS)</a></li>
+                <li><a href="http://www.cmch-vellore.edu/">Christian Medical College, Vellore (CMC, Vellore)</a></li>
+                <li><a href="http://www.afmc.nic.in/‎">Armed Forces Medical College(AFMC), Pune</a></li>
+                <li><a href="http://jipmer.edu.in/">JIPMER,Dhanvantri Nagar, Puducherry</a></li>
+                <li><a href="http://www.mamc.ac.in/">Maulana Azad Medical College(MAMC), Delhi</a></li>
+                <li><a href="http://www.hardinge.org/">Lady Hardinge Medical College(LHMC), Delhi</a></li>
+                <li><a href="http://www.mmc.tn.gov.in/">Madras Medical College (Chennai Medical College)</a></li>
+				<li><a href="http://www.gmcjjh.org/">Grant Medical College,Mumbai</a></li>
+                <li><a href="http://manipal.edu/kmc-manipal.html">Kasturba Medical College(KMC),Manipal</a></li>
 
                 
               </ul>

@@ -1,12 +1,3 @@
-<%-- 
-    Document   : North_M_Zone
-    Created on : Apr 4, 2014, 4:53:18 PM
-    Author     : Priya
---%>
-
-
-
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="java.lang.String"%>
 <%@ page language="java" import="java.sql.*,java.util.*,java.text.*" %>
